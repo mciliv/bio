@@ -1,7 +1,8 @@
+Add what's available of the unchecked:
 - [ ] Shiitake  
 - [ ] Maitake  
-- [ ] Avocado  
-- [ ] Olive  
+- [x] Avocado  
+- [x] Olive  
 - [ ] Broccolis  
 - [ ] Cauliflower  
 - [ ] Spinach  
@@ -16,15 +17,16 @@
 - [ ] Parsley  
 - [ ] Red cabbage  
 - [ ] Asparagus  
-- [ ] Carrot  
-- [ ] Beet  
+- [x] Carrot  
+- [x] Beet  
 - [ ] Bittermelon  
 - [ ] Tomatoes  
   - [ ] Small  
   - [ ] Heirloom  
-- [ ] Sweet potato  
-  - [ ] Japanese  
-- [ ] Potato  
+- [ ] Sweet potato
+  - [ ] Orange
+  - [ ] Purple
+- [x] Potato  
 - [ ] Lime  
 - [ ] Shallot  
 - [ ] Onion  
@@ -32,9 +34,7 @@
   - [ ] Red  
   - [ ] Yellow  
 - [ ] Garlic  
-- [ ] Caper  
-  - [ ] Pickled  
-    - [ ] Non-pareil  
+- [x] Non-pareil, pickled Caper  
 - [ ] Turmeric  
 - [ ] Ginger  
 - [ ] Ginseng  
@@ -45,3 +45,5 @@
 - [ ] Apple  
 - [ ] Eggs  
 - [ ] Caviar
+Wild or Grass-fed, lean
+- [ ] Bison
